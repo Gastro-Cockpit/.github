@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/Logo.png" alt="Gastro Cockpit" width="400" />
+  <img src="../assets/Logo.svg" alt="Gastro Cockpit" width="400" />
   <h3>Workforce Management für die Gastronomie</h3>
   <p>Mobile-first shift planning, time tracking & compliance for German restaurants</p>
 </div>
