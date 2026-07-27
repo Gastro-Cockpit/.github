@@ -35,7 +35,7 @@ Gastro Cockpit replaces the spreadsheets and WhatsApp groups that restaurants, c
 
 ### What it costs
 
-One price per location — €69 a month, however many people you employ. 60 days free, no payment details required.
+One price per location, however many people you employ — never per head. 60 days free, no payment details required. See [current pricing](https://gastro-cockpit.de/preise/).
 
 ### Where we're headed
 
