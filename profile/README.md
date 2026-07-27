@@ -1,41 +1,53 @@
 <div align="center">
-  <img src="../assets/Logo.svg" alt="Gastro Cockpit" width="400" />
-  <h3>Workforce Management für die Gastronomie</h3>
-  <p>Mobile-first shift planning, time tracking & compliance for German restaurants</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/logo-secondary-light.svg">
+    <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/logo-primary.svg" alt="Gastro Cockpit" width="380">
+  </picture>
+
+  <p><strong>Shift planning and time tracking for hospitality — all on your phone.</strong></p>
+
+  <p>
+    <a href="https://apps.apple.com/de/app/gastro-cockpit/id6759491750">
+      <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/app-store-badge.svg" alt="Download on the App Store" height="54">
+    </a>
+    &nbsp;
+    <a href="https://play.google.com/store/apps/details?id=de.gastro_cockpit.app">
+      <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/google-play-badge.png" alt="Get it on Google Play" height="65">
+    </a>
+  </p>
 </div>
 
 ---
 
-### What We Build
+### What we build
 
-Gastro Cockpit helps restaurants, cafés, and bars manage their teams efficiently—without the spreadsheet chaos. We handle the complexity of German labor law so you can focus on hospitality.
+Gastro Cockpit replaces the spreadsheets and WhatsApp groups that restaurants, cafés and bars run their teams on. Rosters, hours, time off and payroll exports live in one app — built around German labor law, so recorded working time (Arbeitszeiterfassung) is compliant by default.
 
-**Built by a restaurateur managing 20+ employees across 2 locations.**
+**Built by restaurateurs, for restaurateurs.** Our founder runs two cafés with 25 staff and uses it every day.
 
-### Features
+### What it does
 
-📅 Shift Planning · ⏱️ Time Tracking · 🔄 Shift Swaps · 📋 Leave Management · 📊 Compliance · 💶 Payroll Export
+- **Rosters done in minutes.** Plan from your phone between two shifts. Save once and the whole team has it.
+- **Clock in on the phone.** GPS-verified and documented to the letter of the law.
+- **Swaps without the phone tree.** The team arranges cover, you approve with one tap.
+- **Time off in one place.** Vacation, sick notes and balances — no paper, no guessing.
+- **Payroll export.** One click at the end of the month, straight to your tax advisor.
 
-### Where We're Headed
+### What it costs
 
-**Today:** Reliable tools that eliminate spreadsheet chaos and keep you compliant.
+One price per location — €69 a month, however many people you employ. 60 days free, no payment details required.
 
-**Tomorrow:** An AI co-manager that runs your location autonomously.
+### Where we're headed
 
-- 🤖 Auto-generated schedules optimized for coverage, cost & fairness
-- 🔮 Predictive staffing based on reservations, weather & local events
-- 🚨 Instant sick-leave replacement—one tap finds the best available substitute
-- 🔄 Self-healing schedules that adapt to real-time changes
+Today: reliable tools that get you out of the spreadsheet and keep you compliant. Next: scheduling that proposes itself — coverage, cost and fairness solved for you, sick-leave cover suggested the moment someone calls in.
 
-_Your AI manager that never sleeps, never forgets labor law, and never needs a coffee break._
-
-### Our Vision
-
-Enable small gastronomy businesses to access enterprise-grade workforce management—and eventually, the AI-powered operations that only large chains can afford today.
+Our goal is to give small hospitality businesses the workforce management that until now only large chains could afford.
 
 ---
 
 <div align="center">
-  <a href="https://gastrocockpit.de">Website</a> ·
-  <a href="mailto:hello@gastrocockpit.de">Contact</a>
+  <a href="https://gastro-cockpit.de">Website</a> ·
+  <a href="https://gastro-cockpit.de/preise/">Pricing</a> ·
+  <a href="https://gastro-cockpit.de/hilfe/">Help Center</a> ·
+  <a href="mailto:info@gastro-cockpit.de">Contact</a>
 </div>
