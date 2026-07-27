@@ -6,15 +6,13 @@
 
   <p><strong>Shift planning and time tracking for hospitality — all on your phone.</strong></p>
 
-  <p>
-    <a href="https://apps.apple.com/de/app/gastro-cockpit/id6759491750">
-      <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/app-store-badge.svg" alt="Download on the App Store" height="54">
-    </a>
-    &nbsp;
-    <a href="https://play.google.com/store/apps/details?id=de.gastro_cockpit.app">
-      <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/google-play-badge.png" alt="Get it on Google Play" height="65">
-    </a>
-  </p>
+  <a href="https://apps.apple.com/de/app/gastro-cockpit/id6759491750">
+    <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/app-store-badge.webp" alt="Download on the App Store" height="54">
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=de.gastro_cockpit.app">
+    <img src="https://raw.githubusercontent.com/Gastro-Cockpit/.github/main/assets/google-play-badge.webp" alt="Get it on Google Play" height="54">
+  </a>
 </div>
 
 ---
